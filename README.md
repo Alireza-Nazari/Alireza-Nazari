@@ -28,7 +28,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Alireza-Nazari&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Alireza-Nazari&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Nazari&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dsa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dsa&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -47,3 +50,7 @@
 
 
 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
