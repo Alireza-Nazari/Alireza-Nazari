@@ -32,7 +32,7 @@
 
 
 
-<p align="center">
+<div style="text-align: center;">
 
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Alireza-Nazari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
@@ -46,7 +46,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Alireza-Nazari&icon=1&color=4" />
 </a>
 
-</p>
+</div>
 
 
 
