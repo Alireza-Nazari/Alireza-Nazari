@@ -26,22 +26,17 @@
 
 
 
-<h2>🏆 GitHub Trophies</h2>
+##🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Alireza-Nazari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 
-<h3>🔝 Top Contributed Repo</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=Alireza-Nazari&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
-<hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dsd&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Alireza-Nazari&icon=1&color=4" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=dsd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
