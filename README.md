@@ -19,17 +19,24 @@
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dsa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dsa&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alireza-Nazari&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alireza-Nazari&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Nazari&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-##🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Alireza-Nazari&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Alireza-Nazari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
