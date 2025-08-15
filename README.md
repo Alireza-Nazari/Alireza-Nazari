@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Ragnarok Project**
 - 🌱 I’m currently learning **computer vision and Language models**
 - 👯 I’m looking to collaborate on **Vision Language Projects**
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alireza-nazari-work/](https://www.linkedin.com/in/alireza-nazari-work/)
+- 👨‍💻 All of my Experiences are available at [https://www.linkedin.com/in/alireza-nazari-work/](https://www.linkedin.com/in/alireza-nazari-work/)
 - 💬 Ask me about **Deep Learning and Data**
 - 📫 How to reach me **Alireza.nazari.work@gmail.com**
 - ⚡ Fun fact **I'm Batman but don't tell anyone**
