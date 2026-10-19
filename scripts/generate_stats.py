@@ -141,8 +141,7 @@ def _frame(w: int, h: int, t: dict, title: str, body: str) -> str:
             f'.v{{font:700 14px "Segoe UI",Ubuntu,Helvetica,Arial,sans-serif;fill:{t["text"]}}}'
             f'.m{{font:400 12px "Segoe UI",Ubuntu,Helvetica,Arial,sans-serif;fill:{t["muted"]}}}'
             f'.b{{font:700 28px "Segoe UI",Ubuntu,Helvetica,Arial,sans-serif;fill:{t["text"]}}}</style>'
-            f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="6" fill="{t["bg"]}" stroke="{t["border"]}"/>'
-            f'{body}</svg>')
+            f'{body}</svg>')                     # transparent: no background box, no border (blends with the page)
 
 
 def card_overview(data: dict, t: dict) -> str:
