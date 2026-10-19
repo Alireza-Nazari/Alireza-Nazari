@@ -15,9 +15,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alireza-Nazari&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alireza-Nazari&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Nazari&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<picture><source media="(prefers-color-scheme: dark)" srcset="stats/overview-dark.svg"><img alt="GitHub stats" src="stats/overview-light.svg"></picture><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="stats/streak-dark.svg"><img alt="Contribution streak" src="stats/streak-light.svg"></picture><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg"><img alt="Most used languages" src="stats/languages-light.svg"></picture>
+
+<sub>Generated daily by this repository's own GitHub Action (`scripts/generate_stats.py`), not a third-party service.</sub>
 
 
 
