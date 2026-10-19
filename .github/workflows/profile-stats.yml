@@ -1,0 +1,40 @@
+# Regenerates the profile stat cards (stats/*.svg) from the GitHub API once a day.
+# Optional secret STATS_TOKEN (a personal access token of the profile owner, read-only) adds private
+# contributions and private repositories' languages; without it the built-in GITHUB_TOKEN is used (public data).
+name: Profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"          # daily, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_stats.py
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_stats.py --login "${{ github.repository_owner }}"
+      - name: Commit changed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "Update profile stats [skip ci]"
+          git push
